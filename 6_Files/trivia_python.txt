@@ -1,0 +1,19 @@
+Python Questions
+Variables
+What variable type would be suitable to store a person's age?
+string
+integer
+float
+boolean
+2
+A integer holds whole numbers.
+1
+Variables
+What variable type would be suitable to store a money amount?
+string
+integer
+float
+boolean
+3
+A float holds decimal numbers
+1

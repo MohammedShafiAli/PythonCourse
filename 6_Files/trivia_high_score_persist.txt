@@ -1,0 +1,5 @@
+Shafi: 15
+Imaan: 15
+Kanwal: 14
+Khizer: 13
+Haaziq: 10

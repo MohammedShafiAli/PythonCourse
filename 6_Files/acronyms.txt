@@ -1,0 +1,4 @@
+ML - Machine Learning
+AI - Artificial Intelligence
+IDE - Integrated Development Environment
+GUI - Graphical User Interface
